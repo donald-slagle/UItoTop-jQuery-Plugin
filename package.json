@@ -1,0 +1,23 @@
+{
+  "name": "uitotop-jquery-plugin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "js/jquery.ui.totop.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sksmatt/UItoTop-jQuery-Plugin.git"
+  },
+  "keywords": [
+    "jquery",
+    "uitotop"
+  ],
+  "author": "sksmatt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sksmatt/UItoTop-jQuery-Plugin/issues"
+  },
+  "homepage": "https://github.com/sksmatt/UItoTop-jQuery-Plugin#readme"
+}
